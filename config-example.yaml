@@ -1,0 +1,6 @@
+guild_ids:
+  - 111111
+admin_ids:
+  - 111111
+channels:
+  voice_event_channel_id: 111111
